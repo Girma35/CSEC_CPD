@@ -1,8 +1,3 @@
-import sys
-
-# Redirect input and output files
-sys.stdin = open('input.txt', 'r')
-sys.stdout = open('output.txt', 'w')
 
 def minWidth(n,k,heights):
     res = 0 
