@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 72da4e8 (Resolved merge conflicts)
 def minWidth(n,k,heights):
     res = 0 
     for i in range(n):
