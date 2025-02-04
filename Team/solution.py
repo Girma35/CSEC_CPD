@@ -1,8 +1,3 @@
-import sys
-
-sys.stdin = open('input.txt', 'r')
-sys.stdout = open('output.txt', 'w')
-
 def numOfPro():
     num = list(map(int,input().split()))
     sumOfNum = sum(num)
