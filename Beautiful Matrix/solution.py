@@ -1,8 +1,3 @@
-import sys
-
-sys.stdin = open('input.txt', 'r')
-sys.stdout = open('output.txt', 'w')
-
 def beuty(array):
     for i in range(5):
         for j in range(5):
